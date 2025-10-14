@@ -6,7 +6,9 @@ I pursue programming as a hobby and create projects for fun! My nickname is 'Kik
 ***Goals***
 
 -I want to get my programming club in school approved 
+
 -I want to learn how to use AI to form solutions to everyday tasks
+
 -I want to dive deeper into cybersecurity
 
 ***How to Contact Me***
