@@ -3,10 +3,8 @@
 ---
 
 ## 💻 About Me ;
-- 🌱 Learning Python, JavaScript, HTML, and scripting ;
-- 🎮 Love experimenting with ricing, AI, and gaming sites ;
-- 💡 Passionate about trying new tech and building practical experiments ;
-- 🌍 Open to collaborations and ideas ;
+- Learning Python, JavaScript, HTML, and scripting ;
+- Love experimenting with ricing, AI, and gaming sites/Proxies ;
 
 ---
 
@@ -28,10 +26,4 @@ Here are some of my favorite public projects:
 
 ---
 
-## 📫 Connect with Me;
-- GitHub: [https://github.com/KikiKian](https://github.com/KikiKian) ;
-
----
-
-## ⚡ Fun Fact;
-I believe coding should be painful — if it’s not making you cry, you’re probably missing the point!; 😄
+"I believe coding should be painful — if it’s not making you cry, you’re probably missing the point!; 😄"
