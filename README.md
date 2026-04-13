@@ -10,7 +10,7 @@ Here are some of my favorite public projects:
 
 - [**Orrery**](https://github.com/KikiKian/Orrery) — A realistic simulation of planets gravity in space.
 - [**Even-Better-CC-Ported**](https://github.com/KikiKian/Even-Better-CC-Ported) — Fun gaming website with a proxy. 
-- [**Web-Page-Summary**](https://github.com/KikiKian/Web-Page-Summary) — A python project that gives you an AI summary of a URL.  
+- [**Lipi**](https://github.com/KikiKian/lipi) — Lipi is a phonetic romanization system for Gujarati script — my native language.  
 
 *(More projects in my [repositories](https://github.com/KikiKian?tab=repositories))*;
 
