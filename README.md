@@ -1,4 +1,4 @@
-# Hey, I'm KikiKian!
+# Yo, I'm KikiKian!
 
 I am a programmer and student based in Seattle. Current Dev and Maintainer of [**Lipi**](https://github.com/KikiKian/lipi). You can also find [***Lipi on Codeberg***](https://codeberg.org/i-am-kiki/lipi).
 
