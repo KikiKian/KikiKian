@@ -1,6 +1,6 @@
 # Yo!
 
-I am a programmer and student based in Seattle. Current Dev and Maintainer of [**Lipi**](https://github.com/KikiKian/lipi). You can also find [Lipi on Codeberg](https://codeberg.org/i-am-kiki/lipi).You can also find me on the better alternative to Github [***Codeberg***](https://codeberg.org/i-am-kiki/).
+I am a programmer and student based in Seattle. Current Dev and Maintainer of [**Lipi**](https://github.com/KikiKian/lipi). You can also find my major projects on [***Codeberg***](https://codeberg.org/i-am-kiki/).
 
 ## 📂 Featured Projects
 - [**Lipi**](https://github.com/KikiKian/lipi) — Lipi is a phonetic romanization system for Gujarati script — my native language. 
