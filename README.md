@@ -5,7 +5,7 @@ I am a programmer and student based in Seattle. Current Dev and Maintainer of [*
 ## 📂 Featured Projects
 - [**Lipi**](https://github.com/KikiKian/lipi) — Lipi is a phonetic romanization system for Gujarati script — my native language. 
 - [**Orrery**](https://github.com/KikiKian/Orrery) — A realistic simulation of planets gravity in space.
-- [**Even-Better-CC-Ported**](https://github.com/KikiKian/Even-Better-CC-Ported) — Fun gaming website with a proxy. 
+- [**Transfer**](https://github.com/KikiKian/transfer) — A tool that lets you securely transfer files between computers on the same network. 
 
 
 # 💻 Tech Stack:
