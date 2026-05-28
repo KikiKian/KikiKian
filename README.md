@@ -24,7 +24,7 @@ I am a programmer and student based in Seattle. Current Dev and Maintainer of [*
 मैं सिएटल में रहने वाला एक प्रोग्रामर और विद्यार्थी हूँ। वर्तमान में [**Lipi**](https://github.com/KikiKian/lipi) का डेवलपर और मेंटेनर हूँ। मेरे प्रमुख प्रोजेक्ट्स आप [***Codeberg***](https://codeberg.org/i-am-kiki/) पर भी देख सकते हैं।
 
 ## 📂 प्रमुख प्रोजेक्ट्स
-- [**लिपि **](https://github.com/KikiKian/lipi) — लिपि गुजराती लिपि के लिए एक phonetic romanization system है — जो मेरी मातृभाषा है।
+- [**लिपि**](https://github.com/KikiKian/lipi) — लिपि गुजराती लिपि के लिए एक phonetic romanization system है — जो मेरी मातृभाषा है।
 - [**नक्षत्र-भवन**](https://github.com/KikiKian/Orrery) — अंतरिक्ष में ग्रहों के गुरुत्वाकर्षण का एक realistic simulation।
 - [**ट्रांसफर**](https://github.com/KikiKian/transfer) — एक ऐसा टूल जो एक ही नेटवर्क पर कंप्यूटरों के बीच सुरक्षित रूप से फ़ाइलें ट्रांसफर करने देता है।
 
